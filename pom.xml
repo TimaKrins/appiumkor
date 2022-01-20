@@ -8,7 +8,7 @@
     <version>19.0.0</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.8</java.version>
+        <java.version>17.0.1</java.version>
         <aspectj.version>1.9.7</aspectj.version>
         <allure.version>2.13.7</allure.version>
         <allure.cmd.download.url>
